@@ -1,6 +1,6 @@
 package com.lintcode;
 
-public class _04840_Swap_Two_Integers_In_Array {
+public class _004840_Swap_Two_Integers_In_Array {
     public static void main(String[] args){
 
     }

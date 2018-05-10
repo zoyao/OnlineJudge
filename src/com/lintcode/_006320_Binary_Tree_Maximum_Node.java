@@ -1,12 +1,11 @@
 package com.lintcode;
 
 import com.lintcode.basic.TreeNode;
-
 import java.util.ArrayDeque;
 
-import static com.lintcode._00070_Serialize_And_Deserialize_Binany_Tree.deserialize;
+import static com.lintcode._000070_Serialize_And_Deserialize_Binany_Tree.deserialize;
 
-public class _06320_Binary_Tree_Maximum_Node {
+public class _006320_Binary_Tree_Maximum_Node {
     public static void main(String[] args){
         TreeNode a = deserialize("{1,-5,3,1,2,-4,-5}");
         maxNode(a);

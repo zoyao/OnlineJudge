@@ -1,6 +1,6 @@
 package com.lintcode;
 
-public class _04660_Count_Linked_List_Nodes {
+public class _004660_Count_Linked_List_Nodes {
     public static void main(String[] args){
 
     }

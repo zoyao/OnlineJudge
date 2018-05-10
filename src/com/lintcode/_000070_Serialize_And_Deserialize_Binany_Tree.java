@@ -4,7 +4,7 @@ import com.lintcode.basic.TreeNode;
 
 import java.util.ArrayDeque;
 
-public class _00070_Serialize_And_Deserialize_Binany_Tree {
+public class _000070_Serialize_And_Deserialize_Binany_Tree {
     public static void main(String[] args) {
         String data = "{}";
         TreeNode a = deserialize(data);

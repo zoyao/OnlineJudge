@@ -1,6 +1,6 @@
 package com.lintcode;
 
-public class _07630_Hex_Conversion {
+public class _007630_Hex_Conversion {
     public static void main(String[] args){
         hexConversion(30, 16);
     }

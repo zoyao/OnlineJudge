@@ -1,6 +1,6 @@
 package com.lintcode;
 
-public class _04630_Sort_Integers {
+public class _004630_Sort_Integers {
     public static void main(String[] args){
         int[] A = {3,2,1};
         sortIntegers(A);
